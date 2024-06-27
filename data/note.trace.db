@@ -1,3 +1,0 @@
-2024-06-27 10:51:16.454395+05:30 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NOTE" not found (this database is empty); SQL statement:
-select n1_0.id,n1_0.content,n1_0.title from note n1_0 [42104-224]
